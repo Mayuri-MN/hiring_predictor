@@ -136,5 +136,6 @@ export default function HiringPredictionTool() {
   );
 }
 // Trigger redeploy
+//Updated build script to fix Vercel issue
 
 
